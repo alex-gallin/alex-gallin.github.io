@@ -2,13 +2,21 @@
 title: "Alex Gallin"
 ---
 
-![](headshot.jpg)
+::: {.grid}
 
+::: {.g-col-4}
+![](headshot.jpg){width=300}
+:::
+
+::: {.g-col-8}
 THIS IS A WORK IN PROGRESS SITE!
 
 I am experimenting with Quarto and the new Positron IDE to create a site to hold some biographical information as well as a few data visualizations and personal projects.
 
 I am a Research Associate at the Federal Reserve Bank of Kansas City.  I hold a BA in Economics with a minor in Mathematics from Carleton College.
+:::
+
+:::
 
 This is a Quarto website.
 

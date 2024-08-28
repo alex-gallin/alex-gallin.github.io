@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://alex-gallin.github.io/project2.html</loc>
+    <lastmod>2024-08-28T00:02:12.433Z</lastmod>
+  </url>
+  <url>
     <loc>https://alex-gallin.github.io/index.html</loc>
-    <lastmod>2024-08-27T22:04:42.019Z</lastmod>
+    <lastmod>2024-08-28T00:06:53.184Z</lastmod>
   </url>
   <url>
     <loc>https://alex-gallin.github.io/about.html</loc>
-    <lastmod>2024-08-25T04:43:35.365Z</lastmod>
+    <lastmod>2024-08-28T00:07:47.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alex-gallin.github.io/project1.html</loc>
+    <lastmod>2024-08-28T00:00:12.197Z</lastmod>
   </url>
 </urlset>

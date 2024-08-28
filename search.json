@@ -11,14 +11,7 @@
     "href": "index.html",
     "title": "Alex Gallin",
     "section": "",
-    "text": "THIS IS A WORK IN PROGRESS SITE!\nI am experimenting with Quarto and the new Positron IDE to create a site to hold some biographical information as well as a few data visualizations and personal projects.\nI am a Research Associate at the Federal Reserve Bank of Kansas City. I hold a BA in Economics with a minor in Mathematics from Carleton College.\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "THIS IS A WORK IN PROGRESS SITE!\nI am experimenting with Quarto and the new Positron IDE to create a site to hold some biographical information as well as a few data visualizations and personal projects.\nI am a Research Associate at the Federal Reserve Bank of Kansas City. I hold a BA in Economics with a minor in Mathematics from Carleton College."
   },
   {
     "objectID": "project1.html",

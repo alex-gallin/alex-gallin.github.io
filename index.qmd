@@ -11,8 +11,16 @@ about:
 ---
 
 
-THIS IS A WORK IN PROGRESS SITE!
+### THIS IS A WORK IN PROGRESS SITE
 
-I am experimenting with Quarto and the new Positron IDE to create a site to hold some biographical information as well as a few data visualizations and personal projects.
+I am experimenting with [Quarto](https://quarto.org/) and the new [Positron IDE](https://github.com/posit-dev/positron) to create a site to hold some biographical information as well as a few data visualizations and personal projects.
 
-I am a Research Associate at the [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/research-staff/alex-gallin/).  I hold a BA in Economics with a minor in Mathematics from Carleton College.
+I am a Research Associate at the [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/research).  I hold a BA in Economics with a minor in Mathematics from Carleton College.
+
+### Kansas City Fed Publications
+
+##### Charting the Economy
+
+[Fiscal Boosts to Manufacturing Mask a More Substantial Slowdown in Business Investment Growth](https://www.kansascityfed.org/research/charting-the-economy/#Fiscal-Boosts-to-Manufacturing-Mask-a-More-Substantial-Slowdown-in-Business-Investment-Growth) with Nida Çakır Melek
+
+[U.S. Oil Production Has Had a Remarkable Record of Consistently Beating Expectations](https://www.kansascityfed.org/research/charting-the-economy/#U.S.-Oil-Production-Has-Had-a-Remarkable-Record-of-Consistently-Beating-Expectations) with Nida Çakır Melek

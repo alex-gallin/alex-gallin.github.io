@@ -1,23 +1,18 @@
 ---
 title: "Alex Gallin"
+about:
+    template: trestles
+    image: headshot.jpg
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/alex-gallin-a7a244208/
+        
 ---
 
-::: {.grid}
 
-::: {.g-col-4}
-![](headshot.jpg){width=300}
-:::
-
-::: {.g-col-8}
 THIS IS A WORK IN PROGRESS SITE!
 
 I am experimenting with Quarto and the new Positron IDE to create a site to hold some biographical information as well as a few data visualizations and personal projects.
 
-I am a Research Associate at the Federal Reserve Bank of Kansas City.  I hold a BA in Economics with a minor in Mathematics from Carleton College.
-:::
-
-:::
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Research Associate at the [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/research-staff/alex-gallin/).  I hold a BA in Economics with a minor in Mathematics from Carleton College.

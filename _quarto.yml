@@ -13,8 +13,8 @@ website:
             text: Project 1
           - href: project2.qmd
             text: Project 2
-      - href: about.qmd
-        text: About
+  page-footer: This is a Quarto website.  To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+  favicon: favicon.png
 
 format:
   html:
